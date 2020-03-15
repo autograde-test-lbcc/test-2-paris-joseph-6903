@@ -1,5 +1,3 @@
-Learn more or give us feedback
-import pytest
 import mymath
 
 
