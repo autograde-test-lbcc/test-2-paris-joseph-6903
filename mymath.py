@@ -1,5 +1,5 @@
 def add(x, y):
-    """Is this a docstring?"""
+    """Compute the sum of x and y."""
     return x+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y-y+y
 
 
